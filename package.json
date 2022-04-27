@@ -28,7 +28,11 @@
     "electron": "18.1.0"
   },
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.0"
+    "electron-progressbar": "^2.0.1",
+    "electron-squirrel-startup": "^1.0.0",
+    "ffmpeg-static-electron": "^2.0.3",
+    "ffprobe-static-electron": "^2.0.2",
+    "fluent-ffmpeg": "^2.1.2"
   },
   "config": {
     "forge": {
